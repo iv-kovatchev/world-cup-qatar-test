@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyb204909feb1f4-staging-203632-authRole",
+      "UnauthRoleArn": "arn:aws:iam::869557323245:role/amplify-amplifyb204909feb1f4-staging-203632-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::869557323245:role/amplify-amplifyb204909feb1f4-staging-203632-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyb204909feb1f4-staging-203632-deployment",
+      "UnauthRoleName": "amplify-amplifyb204909feb1f4-staging-203632-unauthRole",
+      "StackName": "amplify-amplifyb204909feb1f4-staging-203632",
+      "StackId": "arn:aws:cloudformation:us-east-1:869557323245:stack/amplify-amplifyb204909feb1f4-staging-203632/b06fb8a0-6780-11ed-86d4-0af22443bfd3",
+      "AmplifyAppId": "d17wqfovn1gwht"
+    },
+    "categories": {
+      "auth": {
+        "worldcupqatartest31eca803": {}
+      }
+    }
+  }
+}
